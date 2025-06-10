@@ -1,7 +1,6 @@
 ![image](https://github.com/user-attachments/assets/73740253-cc5e-43e5-984c-5007120032f0)
 
-
-Link: https://app.powerbi.com/view?r=eyJrIjoiNzI0MDkwMjAtMmZkYy00NzY4LTllNDAtNWVkNWRkMjg1NjljIiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9
+Link: [Relatório Recursos Humanos]([url](https://app.powerbi.com/view?r=eyJrIjoiNzI0MDkwMjAtMmZkYy00NzY4LTllNDAtNWVkNWRkMjg1NjljIiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9))
 
 # Estudo de Caso
 
